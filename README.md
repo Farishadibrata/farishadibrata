@@ -14,7 +14,7 @@
     </a> 
 </p>
 <p align="center">
-    Working as DevOps, Deploying Android apps to Playstore, build APKs. As Mobile Developer, using React Native to create healthcare apps and As Web Developer as Full-Stack Developer
+    Working as DevOps, Deploying Android apps to Playstore, build APKs. As Mobile Developer, using React Native to create healthcare apps and as Web Developer as Full-Stack Developer
 </p>
 
 <p align="center">
