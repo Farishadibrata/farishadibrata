@@ -29,6 +29,9 @@
     </a>  
 </p>
 
+<p align="center">
+    Also familiar with Typescript
+</p>
 
 <p align="center">
     Frameworks
